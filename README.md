@@ -39,7 +39,7 @@ A system for managing employee leave requests.
 
     ```bash
     git clone <repository_url>
-    cd leave-management-system  # Change to the project directory
+    cd leave-management-system 
     ```
 2.  Build and run the API using Docker Compose:
 
